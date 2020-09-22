@@ -15,7 +15,7 @@
 **Catalina 10.15**
 
 # Bootloader
-**OpenCore 0.6.1**
+**OpenCore 0.6.0**
 
 # Working
 - [x] **USB** All USB ports are working
