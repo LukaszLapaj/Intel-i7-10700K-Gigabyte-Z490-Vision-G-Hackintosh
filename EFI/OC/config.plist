@@ -644,22 +644,6 @@
 			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Arch Linux</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Name</key>
-				<string>Arch Linux</string>
-				<key>Path</key>
-				<string>PciRoot(0x0)/Pci(0x1B,0x4)/Pci(0x0,0x0)/NVMe(0x1,20-20-21-D1-1A-A7-79-64)/HD(1,GPT,0177803A-A7E9-41CC-B484-21EE2E343AF3,0x28,0x64000)/\EFI\refind\refind_x64.efi</string>
-			</dict>
-		</array>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
