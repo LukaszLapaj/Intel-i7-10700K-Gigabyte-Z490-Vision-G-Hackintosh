@@ -6,7 +6,7 @@
 * **Motherboard**: Gigabyte Z490 Vision G:
   * **Audio**: Realtek ALC1220-V
   * **Ethernet**: Intel I225-V 2.5Gb
-* **RAM**: 16GB * 4 G.Skill F4-3600C16D-32GVKC
+* **RAM**: 16GB * 4 G.Skill 3600Mhz CL16 F4-3600C16D-32GVKC
 * **Display**: Dell U2520D 2.5K x2
 * **SMBIOS**: iMac19,1
 * **BIOS version**: F6
@@ -39,4 +39,5 @@
 # Credits
 * [samuel21119](https://github.com/samuel21119)
 * [SchmockLord](https://github.com/SchmockLord)
+* [georgetree](https://github.com/georgetree)
 * https://github.com/Mieze/IntelMausiEthernet
